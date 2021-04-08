@@ -9,6 +9,7 @@
 ## Top Languages
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ReynaraEzra&theme=dark&show_icons=true&count_private=true)
 
+## Link
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/reynaraezra) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/reynaraezra/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://reynaraezra.medium.com/)  
