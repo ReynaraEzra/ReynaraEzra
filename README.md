@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Reynara Ezra
 - 👀 I’m interested in Mathematics Modelling, Optimization, and Data Science
-- 🌱 I’m graduate of mathematics from Institut Teknologi Bandung
 - 📫 You can reach me by email reynaraezra08@gmail.com
 <br>
  <div>
