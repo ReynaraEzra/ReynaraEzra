@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Reynara Ezra
 - 👀 I’m interested in Mathematics Modelling, Optimization, and Data Science
-- 📫 You can reach me by email reynaraezra08@gmail.com
+
+
 <br>
  <div>
   <a href="https://github.com/ReynaraEzra">
