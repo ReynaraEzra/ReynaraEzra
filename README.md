@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Reynara Ezra
-- 👀 I’m interested in Mathematics Modelling, Optimization, and Data Science
+### Hi, I’m Reynara Ezra
+I’m interested in Mathematics Modelling, Optimization, and Data Science
 
 
 <br>
